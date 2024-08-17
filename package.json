@@ -9,8 +9,7 @@
     "preview": "vite preview",
     "test.e2e": "cypress run",
     "test.unit": "vitest",
-    "lint": "eslint",
-    "vercel-build": "vite build --output public"
+    "lint": "eslint"
   },
   "dependencies": {
     "@capacitor/android": "^6.1.2",
